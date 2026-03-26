@@ -1,36 +1,24 @@
 {
   "main": {
-    "id": "2d586e68d2790370",
+    "id": "458cd4b979c9b50f",
     "type": "split",
     "children": [
       {
-        "id": "cb746653496e443d",
+        "id": "03f5f3d1277f7e7e",
         "type": "tabs",
         "children": [
           {
-            "id": "23fdccefa9c514ee",
+            "id": "adceaa0e7c32b7ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/ATEPyDev/About.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "0e64ff1b0ce7f732",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0e4e885204765dda",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "About"
             }
           }
         ]
@@ -39,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "5e60cbc86c2e11d2",
+    "id": "47f591fc734b7ba9",
     "type": "split",
     "children": [
       {
-        "id": "c62a671692b4c40d",
+        "id": "b147a671f1a35e0f",
         "type": "tabs",
         "children": [
           {
-            "id": "26917cfc64340307",
+            "id": "e2fa888515dbc91e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +48,7 @@
             }
           },
           {
-            "id": "c1ef91356e77c74c",
+            "id": "79c36e61256bce09",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,7 +65,7 @@
             }
           },
           {
-            "id": "c7e0432976bac4a9",
+            "id": "4a577bea5bfc5c74",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -93,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "e2de3a3d376d502d",
+    "id": "808db5571777b1e1",
     "type": "split",
     "children": [
       {
-        "id": "73661efa3ccbc72e",
+        "id": "f7f9ea4bdc763843",
         "type": "tabs",
         "children": [
           {
-            "id": "4722066793f67e91",
+            "id": "b578ae1fa59a2177",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "PROJECTS/ATEPyDev/About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for About"
             }
           },
           {
-            "id": "b23a4ea11b3f24bd",
+            "id": "ea303435162070a6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "PROJECTS/ATEPyDev/About.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from About"
             }
           },
           {
-            "id": "2f488882f1c3f649",
+            "id": "22f35aa1c4c7175a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,7 +137,7 @@
             }
           },
           {
-            "id": "c04447634dfb00ee",
+            "id": "c0d40027d97569d7",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -163,18 +151,18 @@
             }
           },
           {
-            "id": "13d119c2e6abfdbd",
+            "id": "3df13c6defd1088d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "PROJECTS/ATEPyDev/About.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of About"
             }
           }
         ]
@@ -195,9 +183,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "26917cfc64340307",
+  "active": "e2fa888515dbc91e",
   "lastOpenFiles": [
     "DAILY",
-    "Welcome.md"
+    "IDEAS",
+    "2026-03-26.md",
+    "PROJECTS/ATEPyDev/About.md",
+    "zzzzz.sample/Test Notes.md",
+    "PROJECTS/ATEPyDev",
+    "PROGRAMMING/Python",
+    "zzzzz.sample",
+    "DEVICES/Omnibus",
+    "DEVICES/Goldengate",
+    "PROJECTS",
+    "DEVICES",
+    "TESTERS",
+    "PROGRAMMING",
+    "zzzzz.sample/Test Notes2.md"
   ]
 }
