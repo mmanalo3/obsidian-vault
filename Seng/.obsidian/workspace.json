@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "eec26885acc717bb",
+        "id": "03f5f3d1277f7e7e",
         "type": "tabs",
         "children": [
           {
-            "id": "82cebb0768ff7197",
+            "id": "adceaa0e7c32b7ad",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "PROJECTS/ATEPyDev/About.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "About"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PROJECTS/ATEPyDev/About.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for About"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PROJECTS/ATEPyDev/About.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from About"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "PROJECTS/ATEPyDev/About.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of About"
             }
           }
         ]
@@ -176,6 +183,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "82cebb0768ff7197",
-  "lastOpenFiles": []
+  "active": "adceaa0e7c32b7ad",
+  "lastOpenFiles": [
+    "zzzzz.sample/Test Notes.md",
+    "PROJECTS/ATEPyDev/About.md",
+    "PROJECTS/ATEPyDev",
+    "PROGRAMMING/Python",
+    "zzzzz.sample",
+    "DEVICES/Omnibus",
+    "DEVICES/Goldengate",
+    "PROJECTS",
+    "DEVICES",
+    "TESTERS",
+    "PROGRAMMING",
+    "zzzzz.sample/Test Notes2.md"
+  ]
 }
