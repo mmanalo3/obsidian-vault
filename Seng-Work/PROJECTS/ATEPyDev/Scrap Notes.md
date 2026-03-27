@@ -5,3 +5,5 @@ $var wire 1 " OMNIBUS_GPIO0_0_OEN $end
 1"
 x!
 #100
+0!
+#200
