@@ -1,4 +1,9 @@
 {
-  "vimMode": true,
-  "showLineNumber": true
+  "vimMode": false,
+  "showLineNumber": true,
+  "focusNewTab": true,
+  "defaultViewMode": "preview",
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./zzzz.attachments",
+  "trashOption": "local"
 }

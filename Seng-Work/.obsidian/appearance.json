@@ -4,5 +4,8 @@
   "interfaceFontFamily": "",
   "textFontFamily": "Cascadia Mono",
   "monospaceFontFamily": "Courier New",
-  "nativeMenus": false
+  "nativeMenus": false,
+  "theme": "obsidian",
+  "baseFontSize": 15,
+  "baseFontSizeAction": true
 }
