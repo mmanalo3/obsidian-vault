@@ -7,5 +7,8 @@
   "nativeMenus": false,
   "theme": "obsidian",
   "baseFontSize": 14,
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "style"
+  ]
 }

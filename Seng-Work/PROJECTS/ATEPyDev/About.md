@@ -1,3 +1,3 @@
 # Introduction
-> ATEPyDev is a Python-based API for automation purposes of ATE engineers.
+- [I] ATEPyDev is a Python-based API for automation purposes of ATE engineers.
 

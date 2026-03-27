@@ -1,3 +1,3 @@
 # Templater
-> required to use <% tp ... %>
+- [i] required to use <% tp ... %>
 
