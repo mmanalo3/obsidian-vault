@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEVICES/Goldengate/Links.md",
+                "file": "PROGRAMMING/SVN/FAQs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Links"
+              "title": "FAQs"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DEVICES/Goldengate/Links.md",
+                "file": "PROGRAMMING/SVN/FAQs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Links"
+              "title": "Backlinks for FAQs"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DEVICES/Goldengate/Links.md",
+                "file": "PROGRAMMING/SVN/FAQs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Links"
+              "title": "Outgoing links from FAQs"
             }
           },
           {
@@ -174,6 +174,18 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7bdfcc932e88fbcb",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "PROGRAMMING/SVN/FAQs.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
           }
         ]
       }
@@ -192,36 +204,41 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "random-note:Open random note": false
     }
   },
   "active": "047e56f2f0d489ab",
   "lastOpenFiles": [
+    "PROGRAMMING/Git/FAQs.md",
+    "PROGRAMMING/SVN/FAQs.md",
+    "PROGRAMMING/SVN/Untitled",
+    "PROGRAMMING/SVN",
+    "PROGRAMMING/Linux/FAQs.md",
+    "PROGRAMMING/Python/FAQs.md",
+    "DEVICES/Atlanta/Loadboard.md",
+    "DAILY/2026/March/2026-03-27.md",
+    "zzzzz.templaters/insert-date-changelog.md",
+    "zzzzz.templates/insert-date-note.md",
+    "zzzzz.sample/Test Notes.md",
+    "DEVICES/Goldengate/Links.md",
     "DEVICES/Omnibus/Untitled.md",
     "zzzzz.attachments",
-    "DEVICES/Goldengate/Links.md",
     "SOFTWARES/VMware",
     "SOFTWARES",
-    "DEVICES/Atlanta/Loadboard.md",
     "DEVICES/Goldengate",
     "PROGRAMMING/Python/Numpy.md",
     "DEVICES/Atlanta",
     "TESTERS/SPEA DOT400s",
     "TESTERS/Advantest V93000",
     "TESTERS",
-    "PROGRAMMING/Linux",
     "PROGRAMMING/Obsidian/Community Plugins.md",
     "Untitled.canvas",
-    "Untitled.base",
     "Untitled.md",
-    "DAILY/2026/March/2026-03-27.md",
     "PROJECTS/ATEPyDev/About.md",
     "PROJECTS/ATEPyDev/Plans and To-do.md",
     "PROJECTS/ATEPyDev/ChangeLogs.md",
-    "zzzzz.templaters/insert-date-changelog.md",
     "zzzzz.templaters/insert-date-debug-status.md",
-    "zzzzz.templates/insert-date-note.md",
-    "zzzzz.sample/Test Notes.md",
     "zzzzz.sample/Test Notes2.md",
     "2026-03-26.md"
   ]
