@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK HOW TOs/Shipping.md",
+                "file": "SOFTWARES/Obsidian/Things Bullet Options.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shipping"
+              "title": "Things Bullet Options"
             }
           }
         ]
@@ -220,11 +220,12 @@
   },
   "active": "047e56f2f0d489ab",
   "lastOpenFiles": [
+    "DAILY/2026/March/2026-03-27.md",
+    "WORK HOW TOs/Shipping.md",
     "zzzzz.templaters/insert-date-debug-status.md",
     "zzzzz.templaters/insert-date-changelog.md",
     "zzzzz.sample/Test Notes2.md",
     "zzzzz.sample/Test Notes.md",
-    "WORK HOW TOs/Shipping.md",
     "TESTS/Patterns/TDL.md",
     "TESTERS/SPEA DOT400s/VRAD Structures.md",
     "TESTERS/SPEA DOT400s/Remote Access and Passwords.md",
@@ -241,7 +242,6 @@
     "DEVICES/Atlanta/Loadboard.md",
     "DEVICES/Omnibus/Untitled.md",
     "DEVICES/Goldengate/Links.md",
-    "DAILY/2026/March/2026-03-27.md",
     "TESTS/Patterns",
     "TESTS",
     "WORK HOW TOs",

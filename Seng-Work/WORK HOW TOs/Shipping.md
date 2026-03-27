@@ -7,7 +7,7 @@
 # What to input for common items being shipped?
 - [i] Wait for approval
 	After approval, forward the approval to MPOCFTHardwareControl@analog.com if the item is checked in to HW control. #mail/work
-/git
+
 
 
 [^1]: Asia Pacific...something
