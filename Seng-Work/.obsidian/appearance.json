@@ -1,1 +1,8 @@
-{}
+{
+  "accentColor": "#2904e7",
+  "cssTheme": "Minimal",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Cascadia Mono",
+  "monospaceFontFamily": "Courier New",
+  "nativeMenus": false
+}
