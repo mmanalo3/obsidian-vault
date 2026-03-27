@@ -1,0 +1,1 @@
+<span style="color:#71AFFA;"><% tp.date.now("YYYY-MM-DD") %></span><span style="display: none">(status::{"date":"<% tp.date.now("YYYY-MM-DD") %>", "result": "PASS"})</span>: 
