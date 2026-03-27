@@ -5,5 +5,6 @@
   "defaultViewMode": "preview",
   "newFileLocation": "current",
   "attachmentFolderPath": "./zzzz.attachments",
-  "trashOption": "local"
+  "trashOption": "local",
+  "spellcheck": false
 }

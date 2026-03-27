@@ -1,0 +1,24 @@
+/* Customize heading sizes */
+.cm-header-1, h1 {
+  font-size: 16px;
+}
+
+.cm-header-2, h2 {
+  font-size: 28px;
+}
+
+.cm-header-3, h3 {
+  font-size: 24px;
+}
+
+.cm-header-4, h4 {
+  font-size: 20px;
+}
+
+.cm-header-5, h5 {
+  font-size: 18px;
+}
+
+.cm-header-6, h6 {
+  font-size: 16px;
+}

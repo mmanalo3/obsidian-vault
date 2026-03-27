@@ -1,11 +1,11 @@
 {
-  "accentColor": "#2904e7",
-  "cssTheme": "Minimal",
+  "accentColor": "#e14141",
+  "cssTheme": "Things",
   "interfaceFontFamily": "",
   "textFontFamily": "Cascadia Mono",
   "monospaceFontFamily": "Courier New",
   "nativeMenus": false,
   "theme": "obsidian",
-  "baseFontSize": 15,
+  "baseFontSize": 12,
   "baseFontSizeAction": true
 }

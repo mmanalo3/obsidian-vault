@@ -8,6 +8,5 @@
 > execute `svn add . --force`
 
 # How to SVN delete multiple file?
-> execute `svn status | grep '.cache$' | awk '{print $2}' | xargs svn delete --keep-local`
+>execute `svn status | grep '.cache$' | awk '{print $2}' | xargs svn delete --keep-local`
 
-/git:

@@ -1,4 +1,4 @@
-HLM LINK: [NHR-085282](http://hlm.wwmfg.analog.com/apps/hlm/pcb/nhrs/NHR-085282)
+HLM LINK: [NHR-085282](http://hlm.wwmfg.analog.com/apps/hlm/pcb/nhrs/NHR-085282) #link/work/atlanta/hlm
 
 # Board Modifications
 > Set R16-R23 to DNI
