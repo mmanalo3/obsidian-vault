@@ -43,7 +43,7 @@ body {
 
   --strong-color: var(--pink);
   --em-color: var(--pink);
-  --quote-color: var(--green);
+  --quote-color: var(--text-normal);
 
   --tag-background-color-l: #bde1d3;
   --tag-font-color-l: #1d694b;
@@ -72,8 +72,8 @@ body {
   --font-editor: var(--font-editor-override), var(--font-text-override),
     var(--font-editor-theme);
 
-  --h1-size: 1.7rem;
-  --h2-size: 1.5rem;
+  --h1-size: 1.4rem;
+  --h2-size: 1.3rem;
   --h3-size: 1.2rem;
   --h4-size: 1.1rem;
   --h5-size: 1rem;

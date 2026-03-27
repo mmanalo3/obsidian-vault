@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK HOW TOs/Shipping.md",
+                "file": "DEVICES/Atlanta/Loadboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shipping"
+              "title": "Loadboard"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WORK HOW TOs/Shipping.md",
+                "file": "DEVICES/Atlanta/Loadboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Shipping"
+              "title": "Backlinks for Loadboard"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "WORK HOW TOs/Shipping.md",
+                "file": "DEVICES/Atlanta/Loadboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Shipping"
+              "title": "Outgoing links from Loadboard"
             }
           },
           {
@@ -181,7 +181,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "WORK HOW TOs/Shipping.md"
+                "file": "DEVICES/Atlanta/Loadboard.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -210,25 +210,26 @@
   },
   "active": "047e56f2f0d489ab",
   "lastOpenFiles": [
+    "DEVICES/Goldengate/Links.md",
+    "DEVICES/Atlanta/Loadboard.md",
+    "SOFTWARES/Obsidian/Things Bullet Options.md",
+    "SOFTWARES/Obsidian/Community Plugins.md",
+    "DAILY/2026/March/2026-03-27.md",
+    "PROGRAMMING/Git/FAQs.md",
+    "PROGRAMMING/Linux/FAQs.md",
+    "TESTERS/SPEA DOT400s/VRAD Structures.md",
+    "TESTERS/SPEA DOT400s/Remote Access and Passwords.md",
     "TESTS/Patterns/TDL.md",
     "WORK HOW TOs/Shipping.md",
-    "TESTERS/SPEA DOT400s/VRAD Structures.md",
     "TESTS/Patterns",
     "TESTS",
-    "TESTERS/SPEA DOT400s/Remote Access and Passwords.md",
     "PROJECTS/ATEPyDev/Plans and To-do.md",
     "PROJECTS/ATEPyDev/ChangeLogs.md",
     "PROJECTS/ATEPyDev/About.md",
     "PROGRAMMING/SVN/FAQs.md",
     "PROGRAMMING/Python/Numpy.md",
-    "PROGRAMMING/Obsidian/Community Plugins.md",
     "PROGRAMMING/Python/FAQs.md",
-    "PROGRAMMING/Linux/FAQs.md",
-    "PROGRAMMING/Git/FAQs.md",
     "DEVICES/Omnibus/Untitled.md",
-    "DEVICES/Goldengate/Links.md",
-    "DEVICES/Atlanta/Loadboard.md",
-    "DAILY/2026/March/2026-03-27.md",
     "WORK HOW TOs",
     "PROGRAMMING/SVN/Untitled",
     "PROGRAMMING/SVN",
