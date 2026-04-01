@@ -3,4 +3,5 @@
 
 # How to tar directory?
 - [i] execute `tar -cvf /path/to/destination/archive-name.tar /path/to/directory/to/tar` to tar a directory. Add `-z` for gzip.
+- [i] use `-x` to extract a tar file.
 
