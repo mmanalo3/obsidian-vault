@@ -11,10 +11,14 @@
             "id": "c712ca6be4eb68fc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "MEDIA/TV Series/St. Denis Medical.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "St. Denis Medical"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "MEDIA/TV Series/St. Denis Medical.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -162,5 +167,9 @@
     }
   },
   "active": "c712ca6be4eb68fc",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "MEDIA/TV Series/St. Denis Medical.md",
+    "MEDIA/Movies",
+    "MEDIA/TV Series"
+  ]
 }
