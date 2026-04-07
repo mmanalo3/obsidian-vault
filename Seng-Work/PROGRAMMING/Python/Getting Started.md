@@ -3,6 +3,7 @@
 - [ ] pip install ipykernel -- for interactive python coding
 - [ ] enable Jupyter > Interactive Window > Text Editor: Execute Selection
 - [ ] use comments to explain the Why not the What
+- [ ] pip install python-dotenv
 
 # Creating requirements.txt file
 - [ ] pip freeze > requirements.txt
