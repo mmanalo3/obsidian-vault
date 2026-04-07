@@ -8,3 +8,10 @@
 # Creating requirements.txt file
 - [ ] pip freeze > requirements.txt
 - [ ] pip --install -r requirements.txt
+
+# Formatting with Ruff
+- [i] Install Ruff as VS Code extensions
+- [i] Enable 'format on save' in settings
+- [i] Select Ruff as default formatter
+
+# 

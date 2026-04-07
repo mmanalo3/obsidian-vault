@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROGRAMMING/Python/Formatting with Ruff.md",
+                "file": "PROGRAMMING/Python/Getting Started.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Formatting with Ruff"
+              "title": "Getting Started"
             }
           }
         ]
@@ -221,8 +221,8 @@
   "active": "047e56f2f0d489ab",
   "lastOpenFiles": [
     "PROGRAMMING/Python/Environment Variables.md",
-    "PROGRAMMING/Python/Formatting with Ruff.md",
     "PROGRAMMING/Python/Getting Started.md",
+    "PROGRAMMING/Python/Formatting with Ruff.md",
     "PROGRAMMING/Python/FAQs.md",
     "PROGRAMMING/Python/Numpy.md",
     "PROGRAMMING/Python/Weather API.md",
