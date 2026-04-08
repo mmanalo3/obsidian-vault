@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UDEMY/Python for Data Science and Machine Learning Bootcamp/Section 2 - Environment Setup.md",
+                "file": "UDEMY/Python for Data Science and Machine Learning Bootcamp/Section 3 - Jupyter Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Section 2 - Environment Setup"
+              "title": "Section 3 - Jupyter Overview"
             }
           }
         ]
@@ -186,7 +186,7 @@
   "active": "23fdccefa9c514ee",
   "lastOpenFiles": [
     "Introduction to Data Science with Python/Untitled.md",
-    "UDEMY/Python for Data Science and Machine Learning Bootcamp/Section 2 - Environment Setup.md",
+    "UDEMY/Python for Data Science and Machine Learning Bootcamp/Section 3 - Jupyter Overview.md",
     "UDEMY/Python for Data Science and Machine Learning Bootcamp",
     "UDEMY",
     "Machine Learning and AI with Python",
