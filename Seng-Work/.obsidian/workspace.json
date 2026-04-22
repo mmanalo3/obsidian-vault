@@ -37,13 +37,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK HOW TOs/Shipping.md",
-                "mode": "preview",
+                "file": "LEARNINGS/SystemVerilog/02 - Fundamentals, Procedural Constructs.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Shipping"
+              "title": "02 - Fundamentals, Procedural Constructs"
             }
           }
         ],
@@ -79,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "how to gzip",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -236,8 +236,12 @@
   },
   "active": "af0850a31e143a33",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "PROGRAMMING/Linux/FAQs.md",
+    "LEARNINGS/SystemVerilog/02 - Fundamentals, Procedural Constructs.md",
+    "LEARNINGS/SystemVerilog",
+    "LEARNINGS",
     "WORK HOW TOs/Shipping.md",
+    "conflict-files-obsidian-git.md",
     "PROGRAMMING/Python/Environment Variables.md",
     "PROGRAMMING/Python/FAQs.md",
     "PROGRAMMING/Python/Weather API.md",
@@ -249,7 +253,6 @@
     "TESTS/Patterns/Adivec.md",
     "TESTS/Protocols/Serial Protocol Interface (SPI).md",
     "TESTS/Protocols",
-    "PROGRAMMING/Linux/FAQs.md",
     "PROJECTS/ATEPyDev/Scrap Notes.md",
     "PROJECTS/ATEPyDev/Plans and To-do.md",
     "DAILY/2026/March/2026-03-31.md",
@@ -263,15 +266,12 @@
     "SOFTWARES/Obsidian/Community Plugins.md",
     "zzzzz.templaters/insert-date-debug-status.md",
     "zzzzz.templaters/insert-date-changelog.md",
-    "zzzzz.sample/Test Notes2.md",
     "TESTS/Patterns",
     "TESTS",
     "WORK HOW TOs",
     "PROGRAMMING/SVN/Untitled",
     "PROGRAMMING/SVN",
     "zzzzz.attachments",
-    "SOFTWARES/VMware",
-    "SOFTWARES",
     "Untitled.canvas"
   ]
 }
