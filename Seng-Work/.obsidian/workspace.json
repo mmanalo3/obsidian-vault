@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a2a4d096324b0b15",
+        "id": "b9ac480f307a0e6c",
         "type": "tabs",
         "children": [
           {
-            "id": "047e56f2f0d489ab",
+            "id": "4da1e395944974f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PROGRAMMING/Python/PyTorch - Machine Learning.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "PyTorch - Machine Learning"
+              "title": "New tab"
             }
           }
         ]
@@ -196,8 +182,19 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
+          },
+          {
+            "id": "11ffd5d1230e1158",
+            "type": "leaf",
+            "state": {
+              "type": "github-copilot-chat-view",
+              "state": {},
+              "icon": "bot-message-square",
+              "title": "Copilot Chat"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
@@ -218,15 +215,18 @@
       "random-note:Open random note": false
     }
   },
-  "active": "047e56f2f0d489ab",
+  "active": "4da1e395944974f8",
   "lastOpenFiles": [
-    "PROGRAMMING/Linux/FAQs.md",
+    "WORK HOW TOs/Shipping.md",
+    "zzzzz.sample/Test Notes.md",
+    "zzzzz.sample/Test Notes2.md",
+    "DAILY/2026/March/2026-03-27.md",
     "PROGRAMMING/Python/PyTorch - Machine Learning.md",
+    "PROGRAMMING/Linux/FAQs.md",
     "PROGRAMMING/Python/Environment Variables.md",
     "LEARNINGS/SystemVerilog/02 - Fundamentals, Procedural Constructs.md",
     "LEARNINGS/SystemVerilog",
     "LEARNINGS",
-    "WORK HOW TOs/Shipping.md",
     "conflict-files-obsidian-git.md",
     "PROGRAMMING/Python/FAQs.md",
     "PROGRAMMING/Python/Weather API.md",
@@ -242,14 +242,11 @@
     "PROJECTS/ATEPyDev/Plans and To-do.md",
     "DAILY/2026/March/2026-03-31.md",
     "DAILY/2026/March/2026-03-30.md",
-    "DAILY/2026/March/2026-03-27.md",
     "DEVICES/Goldengate/Patterns/I2S TDM patterns.md",
     "DEVICES/Goldengate/Patterns",
     "DEVICES/Omnibus/Untitled.md",
     "PROJECTS/ATEPyDev/ChangeLogs.md",
     "PROGRAMMING/Git/FAQs.md",
-    "SOFTWARES/Obsidian/Community Plugins.md",
-    "zzzzz.templaters/insert-date-debug-status.md",
     "TESTS/Patterns",
     "TESTS",
     "WORK HOW TOs",
