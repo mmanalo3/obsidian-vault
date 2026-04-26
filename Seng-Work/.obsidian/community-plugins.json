@@ -1,6 +1,5 @@
 [
   "code-emitter",
   "obsidian-git",
-  "templater-obsidian",
-  "github-copilot"
+  "templater-obsidian"
 ]

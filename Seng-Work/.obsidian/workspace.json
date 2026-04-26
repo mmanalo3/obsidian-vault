@@ -182,19 +182,9 @@
               "icon": "lucide-file-signature",
               "title": "Footnotes"
             }
-          },
-          {
-            "id": "11ffd5d1230e1158",
-            "type": "leaf",
-            "state": {
-              "type": "github-copilot-chat-view",
-              "state": {},
-              "icon": "bot-message-square",
-              "title": "Copilot Chat"
-            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
