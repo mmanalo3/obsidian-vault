@@ -16,3 +16,7 @@ print (x)
 print (y)
 ```
 
+```python
+print()
+
+```
