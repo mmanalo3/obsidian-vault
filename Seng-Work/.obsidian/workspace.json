@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zzzzz.sample/Test Notes.md",
+                "file": "PROGRAMMING/Linux/FAQs.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Test Notes"
+              "title": "FAQs"
             }
           }
         ]
@@ -212,8 +212,8 @@
   },
   "active": "4da1e395944974f8",
   "lastOpenFiles": [
-    "WORK HOW TOs/Shipping.md",
     "zzzzz.sample/Test Notes.md",
+    "WORK HOW TOs/Shipping.md",
     "zzzzz.sample/Test Notes2.md",
     "DAILY/2026/March/2026-03-27.md",
     "PROGRAMMING/Python/PyTorch - Machine Learning.md",
