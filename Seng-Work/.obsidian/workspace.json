@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PROGRAMMING/Linux/FAQs.md",
+                "file": "DEVICES/Goldengate/Patterns/Lock Check.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "FAQs"
+              "title": "Lock Check"
             }
           }
         ]
@@ -212,12 +212,13 @@
   },
   "active": "4da1e395944974f8",
   "lastOpenFiles": [
+    "PROGRAMMING/Linux/FAQs.md",
+    "DEVICES/Goldengate/Patterns/Lock Check.md",
     "zzzzz.sample/Test Notes.md",
     "WORK HOW TOs/Shipping.md",
     "zzzzz.sample/Test Notes2.md",
     "DAILY/2026/March/2026-03-27.md",
     "PROGRAMMING/Python/PyTorch - Machine Learning.md",
-    "PROGRAMMING/Linux/FAQs.md",
     "PROGRAMMING/Python/Environment Variables.md",
     "LEARNINGS/SystemVerilog/02 - Fundamentals, Procedural Constructs.md",
     "LEARNINGS/SystemVerilog",
@@ -241,7 +242,6 @@
     "DEVICES/Goldengate/Patterns",
     "DEVICES/Omnibus/Untitled.md",
     "PROJECTS/ATEPyDev/ChangeLogs.md",
-    "PROGRAMMING/Git/FAQs.md",
     "TESTS/Patterns",
     "TESTS",
     "WORK HOW TOs",
