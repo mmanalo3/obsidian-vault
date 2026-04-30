@@ -5,3 +5,5 @@
 **CHANGES MADE:**
 1. Moved `RPTV 80 4` 1 cycle back
 2. Set reset to 1 all throughout -- pattern passed
+3. Set back reset to original state
+4. Set PKT_SPIM_CLK to 0 -- passed
