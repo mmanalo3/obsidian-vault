@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DEVICES/Goldengate/Patterns/Lock Check.md",
+                "file": "DEVICES/ES74/Links.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lock Check"
+              "title": "Links"
             }
           }
         ]
@@ -212,8 +212,17 @@
   },
   "active": "4da1e395944974f8",
   "lastOpenFiles": [
-    "PROGRAMMING/Linux/FAQs.md",
+    "DEVICES/Goldengate/Links.md",
+    "DEVICES/ES74/Links.md",
+    "DEVICES/ES74/JTAG Test Modes.md",
+    "LEARNINGS/Protocols/JTAG.md",
+    "LEARNINGS/Protocols/OneWire.md",
+    "LEARNINGS/Protocols/I2C.md",
+    "LEARNINGS/Protocols/SPI.md",
     "DEVICES/Goldengate/Patterns/Lock Check.md",
+    "LEARNINGS/Protocols",
+    "DEVICES/ES74",
+    "PROGRAMMING/Linux/FAQs.md",
     "zzzzz.sample/Test Notes.md",
     "WORK HOW TOs/Shipping.md",
     "zzzzz.sample/Test Notes2.md",
@@ -234,20 +243,11 @@
     "TESTS/Patterns/Adivec.md",
     "TESTS/Protocols/Serial Protocol Interface (SPI).md",
     "TESTS/Protocols",
-    "PROJECTS/ATEPyDev/Scrap Notes.md",
-    "PROJECTS/ATEPyDev/Plans and To-do.md",
-    "DAILY/2026/March/2026-03-31.md",
-    "DAILY/2026/March/2026-03-30.md",
-    "DEVICES/Goldengate/Patterns/I2S TDM patterns.md",
     "DEVICES/Goldengate/Patterns",
-    "DEVICES/Omnibus/Untitled.md",
-    "PROJECTS/ATEPyDev/ChangeLogs.md",
     "TESTS/Patterns",
     "TESTS",
     "WORK HOW TOs",
     "PROGRAMMING/SVN/Untitled",
-    "PROGRAMMING/SVN",
-    "zzzzz.attachments",
     "Untitled.canvas"
   ]
 }
