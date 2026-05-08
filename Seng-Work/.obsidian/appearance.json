@@ -5,8 +5,8 @@
   "textFontFamily": "Cascadia Mono",
   "monospaceFontFamily": "Courier New",
   "nativeMenus": false,
-  "theme": "obsidian",
-  "baseFontSize": 14,
+  "theme": "moonstone",
+  "baseFontSize": 15,
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "style"
