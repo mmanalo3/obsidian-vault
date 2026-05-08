@@ -21,3 +21,8 @@ JTAG is used in boundary scan testing.
 **SAMPLE** and **PRELOAD**, boundary scan while device is functional
 **BYPASS**, bypasses the boundary scan cells altogether
 
+
+All JTAG operations begin from either the [^1]`Test-Logic-Reset` state or the `Run-Test/Idle` state. From there, The protocol divides into two main, parallel branches:
+1. 
+
+[^1]: Reached by holding TMS=1 for 5 clock cycles.

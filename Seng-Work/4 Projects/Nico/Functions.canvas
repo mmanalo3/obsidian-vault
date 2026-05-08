@@ -3,15 +3,17 @@
 		{"id":"e51716f41ad4915c","type":"text","text":"*class* Device","x":-184,"y":220,"width":250,"height":60},
 		{"id":"41468469bba6eb33","type":"text","text":"*class* Pins","x":-184,"y":340,"width":250,"height":60},
 		{"id":"66d45f0805204b57","type":"text","text":"*class* Patterns","x":-184,"y":480,"width":250,"height":60},
-		{"id":"ffe7c4b4c2165898","type":"text","text":"*class* Metadata","x":-184,"y":100,"width":250,"height":60},
-		{"id":"0dc0884365b4834c","type":"text","text":"**def** set_value (\n\tattr,\n\tvalue\n) -> None\n","x":168,"y":-239,"width":192,"height":119},
-		{"id":"711021bc9d78e1ad","type":"text","text":"*class* Nico\n","x":-480,"y":280,"width":200,"height":60}
+		{"id":"ffe7c4b4c2165898","type":"text","text":"*class* Metadata\n- utilizes **set_value** and **get_value** for verbosity, author, tester","x":-184,"y":42,"width":284,"height":138},
+		{"id":"711021bc9d78e1ad","type":"text","text":"*class* Nico\n","x":-480,"y":280,"width":200,"height":60},
+		{"id":"0dc0884365b4834c","type":"text","text":"**utils** set_value (\n\tclass,\n\tattr,\n\tvalue\n) -> None\n","x":-760,"y":20,"width":212,"height":138},
+		{"id":"d5283d400e0eb620","type":"text","text":"**utils** get_value (\n\tclass,\n\tattr\n) -> value\n","x":-820,"y":202,"width":212,"height":138}
 	],
 	"edges":[
 		{"id":"42e45526e005a4ca","fromNode":"711021bc9d78e1ad","fromSide":"right","toNode":"ffe7c4b4c2165898","toSide":"left"},
 		{"id":"d1dc712a1aaaedf5","fromNode":"711021bc9d78e1ad","fromSide":"right","toNode":"e51716f41ad4915c","toSide":"left"},
 		{"id":"a3d094da9f45d46e","fromNode":"711021bc9d78e1ad","fromSide":"right","toNode":"41468469bba6eb33","toSide":"left"},
 		{"id":"d0de22c08b66f85b","fromNode":"711021bc9d78e1ad","fromSide":"right","toNode":"66d45f0805204b57","toSide":"left"},
-		{"id":"f0d11a8a222e3317","fromNode":"ffe7c4b4c2165898","fromSide":"right","toNode":"0dc0884365b4834c","toSide":"left"}
+		{"id":"2dde735a89eefd8a","fromNode":"711021bc9d78e1ad","fromSide":"left","toNode":"0dc0884365b4834c","toSide":"right"},
+		{"id":"b485b70d1679c2eb","fromNode":"711021bc9d78e1ad","fromSide":"left","toNode":"d5283d400e0eb620","toSide":"right"}
 	]
 }
