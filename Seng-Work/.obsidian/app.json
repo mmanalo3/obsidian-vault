@@ -7,6 +7,6 @@
   "attachmentFolderPath": "./zzzz.attachments",
   "trashOption": "local",
   "spellcheck": false,
-  "newFileFolderPath": "INBOX",
+  "newFileFolderPath": "0 Inbox",
   "promptDelete": false
 }

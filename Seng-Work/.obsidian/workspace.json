@@ -21,8 +21,24 @@
               "icon": "lucide-file",
               "title": "Test Notes"
             }
+          },
+          {
+            "id": "4f33c24a5825a2f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Processing/ADDM Project Initialization.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "ADDM Project Initialization"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -95,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zzzzz.sample/Test Notes.md",
+                "file": "1 Processing/ADDM Project Initialization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +121,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test Notes"
+              "title": "Backlinks for ADDM Project Initialization"
             }
           },
           {
@@ -114,12 +130,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zzzzz.sample/Test Notes.md",
+                "file": "1 Processing/ADDM Project Initialization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test Notes"
+              "title": "Outgoing links from ADDM Project Initialization"
             }
           },
           {
@@ -157,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zzzzz.sample/Test Notes.md",
+                "file": "1 Processing/ADDM Project Initialization.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test Notes"
+              "title": "Outline of ADDM Project Initialization"
             }
           },
           {
@@ -182,7 +198,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "zzzzz.sample/Test Notes.md"
+                "file": "1 Processing/ADDM Project Initialization.md"
               },
               "icon": "lucide-file-signature",
               "title": "Footnotes"
@@ -221,12 +237,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cd6068cd0feecf53",
+  "active": "4f33c24a5825a2f6",
   "lastOpenFiles": [
-    "zzzzz.sample/Test Notes2.md",
     "zzzzz.sample/Test Notes.md",
-    "PROJECTS/Nico/Schema.canvas",
+    "1 Processing/ADDM Project Initialization.md",
+    "4 Projects",
+    "02 - Library/Untitled",
+    "1 Processing/Hardware SVN Repository.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "5 Archive",
+    "zzzzz.sample/Test Notes2.md",
+    "PROJECTS/Nico/Schema.canvas",
     "sample.md",
     "SOFTWARES/Obsidian/Community Plugins.md",
     "Excalidraw/Drawing 2026-05-08 11.17.56.excalidraw.md",
@@ -237,12 +259,10 @@
     "TESTERS/SPEA DOT400s/Remote Access and Passwords.md",
     "03 - Library/desktop.ini",
     "02 - Process/desktop.ini",
-    "03 - Library",
-    "04 - Devices",
-    "02 - Processing",
+    "2 Library",
+    "3 Devices",
     "INBOX/Untitled.md",
     "SOFTWARES/Obsidian/Connections.md",
-    "01 - Inbox",
     "DAILY/2026/2026-05-08.md",
     "DAILY/2026/2026-03-27.md",
     "DAILY/2026/2026-04-06.md",
@@ -253,11 +273,8 @@
     "TESTS/Patterns/Adivec.md",
     "SOFTWARES/Obsidian/Zettelkasten.md",
     "DEVICES/ES74/Links.md",
-    "SOFTWARES/Obsidian/Notetaking",
     "DEVICES/Goldengate/Links.md",
     "DEVICES/ES74/JTAG Test Modes.md",
-    "LEARNINGS/Protocols/JTAG.md",
-    "LEARNINGS/Protocols/OneWire.md",
-    "LEARNINGS/Protocols/I2C.md"
+    "LEARNINGS/Protocols/JTAG.md"
   ]
 }
