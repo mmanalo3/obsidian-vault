@@ -7,3 +7,4 @@ tags:
 ### How to get access to the repository?
 > Submit a getIT ticket to provide access and copy the access from existing user on the same team.
 
+*sample*

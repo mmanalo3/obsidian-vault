@@ -64,3 +64,13 @@
 .markdown-source-view.mod-cm6.is-readable-line-width .cm-sizer {
     max-width: var(--my-file-line-width);
 }
+
+
+.cm-s-obsidian .cm-em {
+  color: #FF957E;
+}
+
+
+.markdown-rendered em {
+  color: #FF957E;
+}
