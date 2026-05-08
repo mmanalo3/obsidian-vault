@@ -3,8 +3,10 @@
   "showLineNumber": true,
   "focusNewTab": true,
   "defaultViewMode": "preview",
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "attachmentFolderPath": "./zzzz.attachments",
   "trashOption": "local",
-  "spellcheck": false
+  "spellcheck": false,
+  "newFileFolderPath": "INBOX",
+  "promptDelete": false
 }
