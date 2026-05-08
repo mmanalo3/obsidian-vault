@@ -1,10 +1,10 @@
 {
 	"nodes":[
-		{"id":"e51716f41ad4915c","type":"text","text":"Device","x":-184,"y":220,"width":250,"height":60},
-		{"id":"41468469bba6eb33","type":"text","text":"Pins","x":-184,"y":340,"width":250,"height":60},
-		{"id":"66d45f0805204b57","type":"text","text":"Patterns","x":-184,"y":480,"width":250,"height":60},
-		{"id":"ffe7c4b4c2165898","type":"text","text":"Metadata","x":-184,"y":100,"width":250,"height":60},
-		{"id":"0dc0884365b4834c","x":168,"y":-239,"width":250,"height":60,"type":"text","text":"**set_value**\n"},
+		{"id":"e51716f41ad4915c","type":"text","text":"*class* Device","x":-184,"y":220,"width":250,"height":60},
+		{"id":"41468469bba6eb33","type":"text","text":"*class* Pins","x":-184,"y":340,"width":250,"height":60},
+		{"id":"66d45f0805204b57","type":"text","text":"*class* Patterns","x":-184,"y":480,"width":250,"height":60},
+		{"id":"ffe7c4b4c2165898","type":"text","text":"*class* Metadata","x":-184,"y":100,"width":250,"height":60},
+		{"id":"0dc0884365b4834c","type":"text","text":"**def** set_value (\n\tattr,\n\tvalue\n) -> None\n","x":168,"y":-239,"width":192,"height":119},
 		{"id":"711021bc9d78e1ad","type":"text","text":"*class* Nico\n","x":-480,"y":280,"width":200,"height":60}
 	],
 	"edges":[

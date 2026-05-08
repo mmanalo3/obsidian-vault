@@ -65,12 +65,7 @@
     max-width: var(--my-file-line-width);
 }
 
-
-.cm-s-obsidian .cm-em {
-  color: #FF957E;
-}
-
-
-.markdown-rendered em {
+body:not(.default-font-color) em,
+body:not(.default-font-color) span:not(.cm-highlight).cm-em {
   color: #FF957E;
 }
