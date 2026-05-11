@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 Devices/ES74/Information.md",
+                "file": "3 Devices/ES74/Powerup sequence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Information"
+              "title": "Powerup sequence"
             }
           }
         ]
@@ -223,6 +223,8 @@
   },
   "active": "e5ef24cb2e898640",
   "lastOpenFiles": [
+    "3 Devices/ES74/Information.md",
+    "3 Devices/ES74/Powerup sequence.md",
     "DAILY/2026/2026-03-27.md",
     "DAILY/2026/2026-03-30.md",
     "2 Library/ADDM Project Initialization.md",
@@ -230,7 +232,6 @@
     "1 Processing/FSM.md",
     "1 Processing/JTAG.md",
     "1 Processing/TAP (Test Access Port).md",
-    "3 Devices/ES74/Information.md",
     "4 Projects/Nico/Functions.canvas",
     "3 Devices/ES74/Links.md",
     "0 Inbox/Bridge Device.md",
@@ -258,7 +259,6 @@
     "02 - Process/desktop.ini",
     "2 Library",
     "INBOX/Untitled.md",
-    "SOFTWARES/Obsidian/Connections.md",
-    "DAILY/2026/2026-05-08.md"
+    "SOFTWARES/Obsidian/Connections.md"
   ]
 }
