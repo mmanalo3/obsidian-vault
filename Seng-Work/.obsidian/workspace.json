@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY/2026/2026-03-27.md",
-                "mode": "preview",
+                "file": "3 Devices/ES74/Information.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-27"
+              "title": "Information"
             }
           }
         ]
@@ -223,8 +223,8 @@
   },
   "active": "e5ef24cb2e898640",
   "lastOpenFiles": [
-    "DAILY/2026/2026-03-30.md",
     "DAILY/2026/2026-03-27.md",
+    "DAILY/2026/2026-03-30.md",
     "2 Library/ADDM Project Initialization.md",
     "2 Library/Hardware SVN Repository.md",
     "1 Processing/FSM.md",

@@ -9,3 +9,4 @@ ES74, also known as DS2489 is a bridge device that with a single contact on each
 - small message exchange
 - state reporting between two microcontroller-based system
 
+DS2489 operates from two independent 1-Wire peripheral interfaces, IOA and IOB
