@@ -4,24 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "b8e164d00ebf1564",
+        "id": "f4aef7264cb1dc7f",
         "type": "tabs",
         "children": [
           {
-            "id": "cd6068cd0feecf53",
+            "id": "e5ef24cb2e898640",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "4 Projects/Nico/Functions.canvas",
-                "viewState": {
-                  "x": -360,
-                  "y": 280,
-                  "zoom": -0.1804772095730874
-                }
+                "file": "DAILY/2026/2026-03-27.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Functions"
+              "icon": "lucide-file",
+              "title": "2026-03-27"
             }
           }
         ]
@@ -223,21 +221,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cd6068cd0feecf53",
+  "active": "e5ef24cb2e898640",
   "lastOpenFiles": [
+    "DAILY/2026/2026-03-30.md",
+    "DAILY/2026/2026-03-27.md",
+    "2 Library/ADDM Project Initialization.md",
+    "2 Library/Hardware SVN Repository.md",
+    "1 Processing/FSM.md",
+    "1 Processing/JTAG.md",
+    "1 Processing/TAP (Test Access Port).md",
     "3 Devices/ES74/Information.md",
     "4 Projects/Nico/Functions.canvas",
-    "0 Inbox/JTAG.md",
-    "0 Inbox/TAP (Test Access Port).md",
-    "0 Inbox/FSM.md",
     "3 Devices/ES74/Links.md",
     "0 Inbox/Bridge Device.md",
     "0 Inbox/Bridge.md",
     "0 Inbox/().md",
     "DEVICES/Atlanta/Loadboard.md",
     "3 Devices/Untitled.md",
-    "2 Library/Hardware SVN Repository.md",
-    "2 Library/ADDM Project Initialization.md",
     "zzzzz.sample/Test Notes.md",
     "4 Projects/Nico",
     "4 Projects",
@@ -259,7 +259,6 @@
     "2 Library",
     "INBOX/Untitled.md",
     "SOFTWARES/Obsidian/Connections.md",
-    "DAILY/2026/2026-05-08.md",
-    "DAILY/2026/2026-03-27.md"
+    "DAILY/2026/2026-05-08.md"
   ]
 }
