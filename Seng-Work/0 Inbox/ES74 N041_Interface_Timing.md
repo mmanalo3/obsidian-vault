@@ -1,6 +1,7 @@
 # TREH_IOA pattern
 - Pattern is initially passing
-- Pattern is failing if TOKEN_DIG is enabled with PIOC_DIG
+- Pattern is failing if kDIG_LOAD of TOKEN_DIG is disabled
+- 
 
 # tws_func_iob_only
 - Pattern is intermittently failing?
