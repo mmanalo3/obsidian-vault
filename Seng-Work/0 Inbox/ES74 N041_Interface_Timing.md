@@ -1,3 +1,4 @@
+2026-05-12:
 # TREH_IOA pattern
 - Pattern is initially passing
 - Pattern is failing if kDIG_LOAD of TOKEN_DIG is disabled
