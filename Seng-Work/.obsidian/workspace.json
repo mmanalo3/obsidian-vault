@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inbox/ES74 N041_Interface_Timing.md",
+                "file": "0 Inbox/ES74 N041_Interface_Timing debug.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "ES74 N041_Interface_Timing"
+              "title": "ES74 N041_Interface_Timing debug"
             }
           }
         ]
@@ -224,7 +224,7 @@
   "active": "beafa6fa5a79b496",
   "lastOpenFiles": [
     "3 Devices/ES74/Powerup sequence.md",
-    "0 Inbox/ES74 N041_Interface_Timing.md",
+    "0 Inbox/ES74 N041_Interface_Timing debug.md",
     "3 Devices/ES74/Information.md",
     "DAILY/2026/2026-03-27.md",
     "DAILY/2026/2026-03-30.md",
