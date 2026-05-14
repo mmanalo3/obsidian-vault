@@ -13,15 +13,15 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "0 Inbox/Binary Search Method.canvas",
                 "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
+                  "x": -159.90091312914018,
+                  "y": 422.24369046384504,
+                  "zoom": -0.9999999999999998
                 }
               },
               "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "title": "Binary Search Method"
             }
           }
         ]
@@ -226,6 +226,8 @@
   "active": "beafa6fa5a79b496",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "0 Inbox/Binary Search Method.canvas",
+    "Untitled 1.canvas",
     "0 Inbox/ES74 N041_Interface_Timing debug.md",
     "0 Inbox/Untitled.md",
     "3 Devices/ES74/Powerup sequence.md",
