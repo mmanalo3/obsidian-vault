@@ -11,15 +11,17 @@
             "id": "beafa6fa5a79b496",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "0 Inbox/ES74 N041_Interface_Timing debug.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "ES74 N041_Interface_Timing debug"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ]
@@ -223,8 +225,10 @@
   },
   "active": "beafa6fa5a79b496",
   "lastOpenFiles": [
-    "3 Devices/ES74/Powerup sequence.md",
+    "Untitled.canvas",
     "0 Inbox/ES74 N041_Interface_Timing debug.md",
+    "0 Inbox/Untitled.md",
+    "3 Devices/ES74/Powerup sequence.md",
     "3 Devices/ES74/Information.md",
     "DAILY/2026/2026-03-27.md",
     "DAILY/2026/2026-03-30.md",
@@ -255,10 +259,8 @@
     "Excalidraw",
     "PROJECTS/Nico",
     "TESTS/Protocols/Serial Protocol Interface (SPI).md",
-    "TESTERS/SPEA DOT400s/Remote Access and Passwords.md",
     "03 - Library/desktop.ini",
     "02 - Process/desktop.ini",
-    "2 Library",
-    "INBOX/Untitled.md"
+    "2 Library"
   ]
 }
