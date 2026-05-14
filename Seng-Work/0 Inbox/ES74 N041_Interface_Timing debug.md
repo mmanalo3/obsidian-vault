@@ -9,3 +9,4 @@
 - Pattern is intermittently failing?
 - Passes on longer delay. Set to Wait(200) from Wait(10) for now.
 
+240n
