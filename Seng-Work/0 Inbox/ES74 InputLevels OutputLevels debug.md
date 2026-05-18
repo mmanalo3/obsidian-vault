@@ -27,3 +27,5 @@ Fail
 - bypassed for now
 
 # N030_Trim_Verify
+1. Error 1701: Error in function <LpeChMPmuSourceSet> The instruction has been previously called for a different pin that belows to the same group of eight pins.
+- L47: Initially device is powered up. Did not power up instead -- passed
